@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScoreKeeper (American Football)</string>
+    <string name="team_A">Team A</string>
+    <string name="team_B">Team B</string>
+    <string name="touchdown">Touchdown(+7)</string>
+    <string name="fieldgoal">Fieldgoal(+3)</string>
+    <string name="safety">Safety(+2)</string>
+    <string name="reset">Reset</string>
+    <string name="score">0</string>
+</resources>
